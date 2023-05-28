@@ -1,0 +1,4 @@
+Create a simple web service and write distributed application(calculator) to 
+consume the Web Service
+
+Use NETBEANS 8.2 for correct results
